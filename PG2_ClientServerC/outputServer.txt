@@ -1,0 +1,12 @@
+Script started on Sat Oct 27 16:52:30 2018
+[?1034hbash-3.2$ ./Server 25200
+Listening for connection
+File sent
+Listening for connection
+^C
+bash-3.2$ ecit
+bash: ecit: command not found
+bash-3.2$ exit
+exit
+
+Script done on Sat Oct 27 16:52:47 2018
