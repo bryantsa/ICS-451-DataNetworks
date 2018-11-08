@@ -1,0 +1,9 @@
+Script started on Sat Sep 29 04:03:32 2018
+[?1034hbash-3.2$ java Server
+Listening for connection on port 25200
+File Sent
+exit
+^Cbash-3.2$ exit
+exit
+
+Script done on Sat Sep 29 04:04:36 2018

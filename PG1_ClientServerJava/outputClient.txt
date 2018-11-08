@@ -1,0 +1,324 @@
+Script started on Sat Sep 29 04:04:14 2018
+[?1034hbash-3.2$ java Client 25200
+Connected to server:
+
+
+
+nullScript started on Mon 12 Mar 2018 11:55:32 PM HST
+]0;bryantsa@uhx02:~/project1[?1034huhx02:/home/b/bryantsa/project1% 1[K./proj1 
+
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+1
+Please enter the account number with no dashes only digits:
+10
+Please enter your name:first
+Please enter the address for this account enter $ when done.
+123 address$
+
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+3
+
+Hello you have selected 3 here are all the records:
+
+10
+first
+123 address
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+1
+Please enter the account number with no dashes only digits:
+20
+Please enter your name:last
+Please enter the address for this account enter $ when done.
+777 west west$
+
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+3
+
+Hello you have selected 3 here are all the records:
+
+10
+first
+123 address
+20
+last
+777 west west
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+1
+Please enter the account number with no dashes only digits:
+10
+Please enter your name:replace name
+Please enter the address for this account enter $ when done.
+1 street address
+4$
+
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+3
+
+Hello you have selected 3 here are all the records:
+
+10
+first
+123 address
+11
+replace name
+1 street address
+4
+20
+last
+777 west west
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+1
+Please enter the account number with no dashes only digits:
+12
+Please enter your name:middle name
+Please enter the address for this account enter $ when done.
+2 street lol$
+
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+3
+
+Hello you have selected 3 here are all the records:
+
+10
+first
+123 address
+11
+replace name
+1 street address
+4
+12
+middle name
+2 street lolress
+4
+20
+last
+777 west west
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+4
+
+Hello you have selected 4 please type the account number in order to delete this record:
+12
+The record: 12, was successfully deleted
+
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+3
+
+Hello you have selected 3 here are all the records:
+
+10
+first
+123 address
+11
+replace name
+1 street address
+4
+20
+last
+777 west west
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+4
+
+Hello you have selected 4 please type the account number in order to delete this record:
+20
+The record: 20, was successfully deleted
+
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+3
+
+Hello you have selected 3 here are all the records:
+
+10
+first
+123 address
+11
+replace name
+1 street address
+4
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+2
+
+Hello you have selected 2 please type the account number in order to view the record:
+10
+
+10
+first
+123 address
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+2
+
+Hello you have selected 2 please type the account number in order to view the record:
+11
+
+11
+replace name
+1 street address
+4
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+4
+
+Hello you have selected 4 please type the account number in order to delete this record:
+10
+The record: 10, was successfully deleted
+
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+3
+
+Hello you have selected 3 here are all the records:
+
+11
+replace name
+1 street address
+4
+
+
+This is a bank database in which you have 5 of the following options below
+Please select one of the following options and press the 'Enter' key in order to proceed: 
+	1: Add a new record in the database
+	2: Print information about a record using the number as the key
+	3: Print all information in the database
+	4: Delete an exisiting record from the database
+	5: Quit the program
+5
+Goodbye!
+]0;bryantsa@uhx02:~/project1uhx02:/home/b/bryantsa/project1% cat textfile.txt 
+11
+replace name
+1 street address
+4
+]0;bryantsa@uhx02:~/project1uhx02:/home/b/bryantsa/project1% exit
+exit
+
+Script done on Mon 12 Mar 2018 11:57:35 PM HST
+
+bash-3.2$ exit
+exit
+
+Script done on Sat Sep 29 04:04:31 2018
